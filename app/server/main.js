@@ -12,3 +12,5 @@ import "/imports/server/getDataPromise.methods";
 // import "/imports/server/meteor/meteor31";
 // import "/imports/server/meteor/meteor32";
 // import "/imports/server/meteor/meteor33";
+// import "/imports/server/meteor/meteor34";
+// import "/imports/server/meteor/meteor35";
