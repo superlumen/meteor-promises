@@ -1,5 +1,7 @@
 import { Meteor } from "meteor/meteor";
 
+import Promise from "bluebird";
+
 import getPromise from "/imports/server/getPromise.service";
 import Coll from "/imports/server/Coll.collection";
 
