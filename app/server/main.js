@@ -1,5 +1,7 @@
-import { Meteor } from 'meteor/meteor';
+import { Meteor } from "meteor/meteor";
 
-Meteor.startup(() => {
-  // code to run on server at startup
-});
+import "/imports/server/getPromise.service";
+import "/imports/server/getPromise.methods";
+
+import "/imports/server/eg01";
+// import "/imports/server/eg02";
